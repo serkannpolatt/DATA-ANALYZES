@@ -2,4 +2,4 @@
 # İN HERE;
 # I completed my missing data and other people's missing data
 
-# I used to pandas,matplotlib,seaborn,nump.
+# I use to pandas,matplotlib,seaborn,nump.
